@@ -1,0 +1,13 @@
+{
+  "name": "05-npm-enviroment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "node --env-file=.env --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Brayan Adeolá",
+  "license": "ISC",
+  "description": ""
+}
